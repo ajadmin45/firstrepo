@@ -1,9 +1,9 @@
 E1
 
-Mechanical 
-CSE
-ECE
-MME
-CHEM
-CIVIL
-All Subjects
+Mechanical 2008,09,10
+CSE 2008,09,10
+ECE 2008,09,10
+MME 2008,09,10
+CHEM 2008,09,10
+CIVIL 2008,09,10
+Common Subjects 2008,09,10
