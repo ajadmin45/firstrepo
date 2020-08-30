@@ -6,3 +6,4 @@ ECE
 MME
 CHEM
 CIVIL
+All Subjects
